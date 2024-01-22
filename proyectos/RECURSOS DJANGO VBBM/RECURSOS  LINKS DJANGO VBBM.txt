@@ -1,0 +1,42 @@
+﻿
+
+LINKS CURSO DJANGO
+
+1.- https://www.youtube.com/channel/UCcZoaMlaUXf_0KFXrEWt2Ww
+
+3. https://www.youtube.com/watch?v=X_3HAU1W7do&list=PLGgUs9P1eAW2yOshyf0ZMy1k-vcFWBgOI&index=2
+
+24-https://neunapp.com/contenido/tipos-de-campos-de-un-modelo-en-django-fields-in-models-18329
+
+27- https://neunapp.com/contenido/crear-base-de-datos-postgres-en-windows-10-desde-sqlshell-19082
+
+37- https://ccbv.co.uk/
+
+39- https://ccbv.co.uk/
+
+70- foundation
+
+104- https://www.digitalocean.com/?refcode=d464e42336a5&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste
+
+105. https://github.com/neunapp/empleado
+
+118- https://github.com/neunapp/biblioteca
+
+123- https://docs.djangoproject.com/en/3.0/ref/models/querysets/
+133. https://docs.djangoproject.com/en/3.0/ref/models/querysets/#annotate
+
+137- https://docs.djangoproject.com/en/3.0/ref/contrib/postgres/search/#trigram-similarity
+
+147- https://docs.djangoproject.com/en/3.0/ref/models/querysets/#update-or-create
+
+151- https://docs.djangoproject.com/en/3.0/ref/models/querysets/#bulk-update
+
+131.-Annotate en consultas con la ORM DJANGO 
+Para listar por ejemplo: todas las categorias 
+del sistema pero adjunto el numero de libros por categorias
+
+https://docs.djangoproject.com/en/3.0/ref/models/querysets/#annotate
+
+180- https://github.com/neunapp/usuariosdj
+
+
